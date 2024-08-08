@@ -20,6 +20,7 @@ Papers for legged-wheeled-robot locomotion
 # Unclassified
 * Visual Whole-Body Control for Legged Loco-Manipulation. ([Paper](https://arxiv.org/pdf/2403.16967) by Minghuan Liu, Zixuan Chen, Xuxin Cheng, Yandong Ji, Ri-Zhao Qiu, Ruihan Yang, Xiaolong Wang [Mar 2024])
 * Deep Whole-Body Control: Learning a Unified Policy for Manipulation and Locomotion. ([Paper](https://arxiv.org/pdf/2210.10044) by Zipeng Fu, Xuxin Cheng, Deepak Pathak [CoRL 2022])
+* Motion Planning for Quadrupedal Locomotion: Coupled Planning, Terrain Mapping and Whole-Body Control. ([Paper](https://arxiv.org/pdf/2003.05481) by Carlos Mastalli Ioannis Havoutis Michele Focchi Darwin G. Caldwell Claudio Semini [IEEE TRO 2020])
 
 
 
