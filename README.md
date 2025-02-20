@@ -18,6 +18,10 @@ Papers for legged-wheeled-robot locomotion
 
 ## Reinforcement Learning
 * Learning Robust Autonomous Navigation and Locomotion for Wheeled-Legged Robots. ([Paper](https://arxiv.org/pdf/2405.01792) by Joonho Lee, Marko Bjelonic, Alexander Reske, Lorenz Wellhausen, Takahiro Miki, Marco Hutter [Science Robotics 2024])
+* Whole-body MPC and Online Gait Sequence Generation for Wheeled-Legged Robots. ([Paper](https://ieeexplore.ieee.org/abstract/document/9636371) by Marko Bjelonic, Ruben Grandia, Oliver Harley, Cla Galliard, Samuel Zimmermann and Marco Hutter)
+* Rolling in the Deep – Hybrid Locomotion for Wheeled-Legged Robots using Online Trajectory Optimization. ([Paper](https://arxiv.org/pdf/1909.07193) by Marko Bjelonic1, Prajish K. Sankar2, C. Dario Bellicoso3, Heike Vallery4 and Marco Hutter1)
+* Keep Rollin’ – Whole-Body Motion Control and Planning for Wheeled Quadrupedal Robots. ([Paper](https://arxiv.org/pdf/1809.03557) by Marko Bjelonic, C. Dario Bellicoso, Yvain de Viragh, Dhionis Sako,
+F. Dante Tresoldi, Fabian Jenelten and Marco Hutter)
 
 
 # Unclassified
