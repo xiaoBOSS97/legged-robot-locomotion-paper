@@ -27,6 +27,7 @@ Papers for humanoid robot control
 * ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills. ([Paper](https://github.com/LeCAR-Lab/ASAP?tab=readme-ov-file) by He, Tairan and Gao, Jiawei and Xiao, Wenli and Zhang, Yuanhang and Wang, Zi and Wang, Jiashun and Luo, Zhengyi and He, Guanqi and Sobanbabu, Nikhil and Pan, Chaoyi and Yi, Zeji and Qu, Guannan and Kitani, Kris and Hodgins, Jessica and Fan, Linxi "Jim" and Zhu, Yuke and Liu, Changliu and Shi, Guanya)
 * Learning Human-to-Humanoid Real-Time Whole-Body Teleoperation. ([Paper](https://human2humanoid.com/) by He, Tairan and Luo, Zhengyi and Xiao, Wenli and Zhang, Chong and Kitani, Kris and Liu, Changliu and Shi, Guanya)
 * OmniH2O: Universal and Dexterous Human-to-Humanoid Whole-Body Teleoperation and Learning. ([Paper](https://omni.human2humanoid.com/) by He, Tairan and Luo, Zhengyi and He, Xialin and Xiao, Wenli and Zhang, Chong and Zhang, Weinan and Kitani, Kris and Liu, Changliu and Shi, Guanya)
+* HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots ([Paper](https://hover-versatile-humanoid.github.io/) by Tairan He, Wenli Xiao, Toru Lin, Zhengyi Luo, Zhenjia Xu, Zhenyu Jiang, Jan Kautz, Changliu Liu, Guanya Shi, Xiaolong Wang, Linxi “Jim” Fan, Yuke Zhu,)
 
 
 
